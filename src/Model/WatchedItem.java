@@ -9,10 +9,23 @@ public class WatchedItem {
     private double bestPrice;
     private double recentPrice;
     private String itemURL;
+    private String itemName;
     private Date dateOfBestPrice;
 
-    public WatchedItem(String itemURL){
+    public WatchedItem(String itemURL, String itemName){
         this.itemURL = itemURL;
+        this.itemName = itemName;
+    }
+
+    @Override
+    public String toString(){
+        StringBuilder builder = new StringBuilder();
+        builder.append(itemName + "\t");
+        builder.append(recentPrice + "\t");
+        builder.append(bestPrice + "\t");
+        builder.append(dateOfBestPrice.toString());
+        builder.append("\n");
+        return builder.toString();
     }
 
     public double getBestPrice() {
@@ -45,5 +58,13 @@ public class WatchedItem {
 
     public void setDateOfBestPrice(Date dateOfBestPrice) {
         this.dateOfBestPrice = dateOfBestPrice;
+    }
+
+    public String getItemName() {
+        return itemName;
+    }
+
+    public void setItemName(String itemName) {
+        this.itemName = itemName;
     }
 }
