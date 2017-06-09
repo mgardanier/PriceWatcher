@@ -2,10 +2,7 @@ package FileIO.Impl;
 
 import FileIO.Interfaces.IFileManager;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
+import java.io.*;
 
 /**
  * Created by michael.gardanier on 6/6/17.
@@ -43,6 +40,7 @@ public class FileManager implements IFileManager {
 
     @Override
     public boolean deleteFile(String filename) {
-        return false;
+        File f = new File(filename);
+        return f.delete();
     }
 }

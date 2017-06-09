@@ -1,0 +1,667 @@
+2017.06.08-10:57.31 ---Info---: New log file created
+2017.06.08-10:57.44 User Event: User selected menu choice 5
+2017.06.08-10:57.44 ---Info---: Exiting program...
+2017.06.08-12:42.04 ---Info---: ...Begin configuration...
+
+2017.06.08-12:42.08 User Event: User selected menu choice 1
+2017.06.08-12:42.23 User Event: User selected menu choice 2
+2017.06.08-12:42.58 ---Info---: ...Begin configuration...
+
+2017.06.08-12:43.06 User Event: User selected menu choice 1
+2017.06.08-12:43.13 User Event: User selected menu choice 2
+2017.06.08-12:43.32 User Event: User selected menu choice 1
+2017.06.08-12:43.44 User Event: User selected menu choice 2
+2017.06.08-12:44.47 ---Info---: ...Begin configuration...
+
+2017.06.08-12:44.49 User Event: User selected menu choice 1
+2017.06.08-12:45.00 User Event: User selected menu choice 2
+2017.06.08-12:45.02 User Event: User selected menu choice 1
+2017.06.08-12:45.17 User Event: User selected menu choice 2
+2017.06.08-12:52.05 ---Info---: ...Begin configuration...
+
+2017.06.08-12:52.08 User Event: User selected menu choice 1
+2017.06.08-12:52.16 User Event: User selected menu choice 1
+2017.06.08-12:52.39 User Event: User selected menu choice 2
+2017.06.08-12:59.11 ---Info---: ...Begin configuration...
+
+2017.06.08-12:59.15 User Event: User selected menu choice 1
+2017.06.08-12:59.23 User Event: User selected menu choice 1
+2017.06.08-12:59.34 User Event: User selected menu choice 2
+2017.06.08-13:00.43 ---Info---: ...Begin configuration...
+
+2017.06.08-13:00.51 User Event: User selected menu choice 1
+2017.06.08-13:00.55 User Event: User selected menu choice 1
+2017.06.08-13:01.00 User Event: User selected menu choice 1
+2017.06.08-13:01.16 User Event: User selected menu choice 2
+2017.06.08-13:01.47 User Event: User selected menu choice 1
+2017.06.08-13:02.05 User Event: User selected menu choice 2
+2017.06.08-13:02.17 User Event: User selected menu choice 3
+2017.06.08-13:02.20 User Event: User attempting to remove milk from watchlist
+2017.06.08-13:02.20 ---Info---: milk successfully removed from watchlist
+2017.06.08-13:02.22 User Event: User selected menu choice 2
+2017.06.08-13:05.21 User Event: User selected menu choice 5
+2017.06.08-13:05.21 ---Info---: Exiting program...
+2017.06.08-13:05.24 ---Info---: ...Begin configuration...
+
+2017.06.08-13:05.34 User Event: User selected menu choice 1
+2017.06.08-13:05.37 User Event: User selected menu choice 1
+2017.06.08-13:05.42 User Event: User selected menu choice 1
+2017.06.08-13:05.53 User Event: User selected menu choice 1
+2017.06.08-13:06.21 User Event: User selected menu choice 2
+2017.06.08-13:06.52 ---Info---: ...Begin configuration...
+
+2017.06.08-13:06.55 User Event: User selected menu choice 1
+2017.06.08-13:07.00 User Event: User selected menu choice 1
+2017.06.08-13:07.03 User Event: User selected menu choice 2
+2017.06.08-13:08.02 ---Info---: ...Begin configuration...
+
+2017.06.08-13:08.03 User Event: User selected menu choice 1
+2017.06.08-13:08.06 User Event: User selected menu choice 1
+2017.06.08-13:08.09 User Event: User selected menu choice 2
+2017.06.08-13:08.49 ---Info---: ...Begin configuration...
+
+2017.06.08-13:08.51 User Event: User selected menu choice 1
+2017.06.08-13:08.55 User Event: User selected menu choice 1
+2017.06.08-13:09.01 User Event: User selected menu choice 1
+2017.06.08-13:09.25 User Event: User selected menu choice 1
+2017.06.08-13:09.37 User Event: User selected menu choice 2
+2017.06.08-13:17.02 ---Info---: ...Begin configuration...
+
+2017.06.08-13:17.04 User Event: User selected menu choice 1
+2017.06.08-13:17.09 User Event: User selected menu choice 2
+2017.06.08-13:18.00 ---Info---: ...Begin configuration...
+
+2017.06.08-13:18.05 User Event: User selected menu choice 1
+2017.06.08-13:18.10 User Event: User selected menu choice 2
+2017.06.08-13:19.03 ---Info---: ...Begin configuration...
+
+2017.06.08-13:19.05 User Event: User selected menu choice 1
+2017.06.08-13:19.09 User Event: User selected menu choice 2
+2017.06.08-13:21.33 ---Info---: ...Begin configuration...
+
+2017.06.08-13:30.07 ---Info---: ...Begin configuration...
+
+2017.06.08-13:30.23 ---Info---: ...Begin configuration...
+
+2017.06.08-13:30.24 User Event: User selected menu choice 1
+2017.06.08-13:30.28 User Event: User selected menu choice 2
+2017.06.08-13:30.50 ---Info---: ...Begin configuration...
+
+2017.06.08-13:30.51 User Event: User selected menu choice 1
+2017.06.08-13:30.56 User Event: User selected menu choice 2
+2017.06.08-13:32.43 ---Info---: ...Begin configuration...
+
+2017.06.08-13:32.44 User Event: User selected menu choice 1
+2017.06.08-13:32.46 User Event: User selected menu choice 2
+2017.06.08-13:33.09 ---Info---: ...Begin configuration...
+
+2017.06.08-13:33.11 User Event: User selected menu choice 1
+2017.06.08-13:33.13 User Event: User selected menu choice 2
+2017.06.08-13:36.03 User Event: User selected menu choice 6
+2017.06.08-13:36.03 ---Info---: Exiting program...
+2017.06.08-13:47.41 ---Info---: ...Begin configuration...
+
+2017.06.08-13:47.43 User Event: User selected menu choice 1
+2017.06.08-13:47.50 User Event: User selected menu choice 6
+2017.06.08-13:47.50 ---Info---: Saving config
+2017.06.08-13:47.50 ---Info---: Exiting program...
+2017.06.08-13:48.34 ---Info---: ...Begin configuration...
+
+2017.06.08-13:48.38 User Event: User selected menu choice 2
+2017.06.08-13:48.40 User Event: User selected menu choice 1
+2017.06.08-13:48.50 User Event: User selected menu choice 1
+2017.06.08-13:49.01 User Event: User selected menu choice 1
+2017.06.08-13:49.14 User Event: User selected menu choice 2
+2017.06.08-13:49.17 User Event: User selected menu choice 6
+2017.06.08-13:49.17 ---Info---: Saving config
+2017.06.08-13:49.17 ---Info---: Exiting program...
+2017.06.08-13:50.02 ---Info---: ...Begin configuration...
+
+2017.06.08-13:50.08 User Event: User selected menu choice 1
+2017.06.08-13:50.15 User Event: User selected menu choice 1
+2017.06.08-13:50.24 User Event: User selected menu choice 1
+2017.06.08-13:50.33 User Event: User selected menu choice 2
+2017.06.08-13:50.38 User Event: User selected menu choice 6
+2017.06.08-13:50.38 ---Info---: Saving config
+2017.06.08-13:50.38 ---Info---: Exiting program...
+2017.06.08-13:52.56 ---Info---: ...Begin configuration...
+
+2017.06.08-13:55.42 ---Info---: ...Begin configuration...
+
+2017.06.08-13:56.18 ---Info---: ...Begin configuration...
+
+2017.06.08-14:00.18 ---Info---: ...Begin configuration...
+
+2017.06.08-14:03.13 ---Info---: ...Begin configuration...
+
+2017.06.08-14:03.41 ---Info---: ...Begin configuration...
+
+2017.06.08-14:20.05 ---Info---: ...Begin configuration...
+
+2017.06.08-14:30.20 ---Info---: ...Begin configuration...
+
+2017.06.08-14:30.26 User Event: User selected menu choice 1
+2017.06.08-14:30.30 User Event: User selected menu choice 2
+2017.06.08-14:30.35 User Event: User selected menu choice 6
+2017.06.08-14:30.35 ---Info---: Saving config
+2017.06.08-14:30.35 ---Info---: Exiting program...
+2017.06.08-14:32.38 ---Info---: ...Begin configuration...
+
+2017.06.08-14:33.29 ---Info---: ...Begin configuration...
+
+2017.06.08-14:33.32 User Event: User selected menu choice 1
+2017.06.08-14:33.43 User Event: User selected menu choice 1
+2017.06.08-14:33.53 User Event: User selected menu choice 1
+2017.06.08-14:34.08 User Event: User selected menu choice 6
+2017.06.08-14:34.08 ---Info---: Saving config
+2017.06.08-14:34.08 ---Info---: Exiting program...
+2017.06.08-14:34.37 ---Info---: ...Begin configuration...
+
+2017.06.08-14:34.47 ---Info---: ...Begin configuration...
+
+2017.06.08-14:34.53 ---Info---: ...Begin configuration...
+
+2017.06.08-14:35.39 ---Info---: ...Begin configuration...
+
+2017.06.08-14:35.54 User Event: User selected menu choice 2
+2017.06.08-14:37.07 ---Info---: ...Begin configuration...
+
+2017.06.08-14:37.09 User Event: User selected menu choice 1
+2017.06.08-14:37.21 User Event: User selected menu choice 2
+2017.06.08-14:37.26 User Event: User selected menu choice 6
+2017.06.08-14:37.26 ---Info---: Saving config
+2017.06.08-14:37.26 ---Info---: Exiting program...
+2017.06.08-14:37.29 ---Info---: ...Begin configuration...
+
+2017.06.08-14:37.32 User Event: User selected menu choice 2
+2017.06.08-14:38.38 ---Info---: ...Begin configuration...
+
+2017.06.08-14:38.38 ***Error***: No config file available
+2017.06.08-14:38.40 User Event: User selected menu choice 2
+2017.06.08-14:38.49 User Event: User selected menu choice 5
+2017.06.08-14:38.54 ***Error***: Invalid user input: 6
+2017.06.08-14:39.03 User Event: User selected menu choice 3
+2017.06.08-14:39.04 User Event: User attempting to remove 3 from watchlist
+2017.06.08-14:39.04 ***Error***: Invalid item name or item not in list
+2017.06.08-14:39.13 User Event: User selected menu choice 4
+2017.06.08-14:39.13 ---Info---: Getting updated prices
+2017.06.08-14:42.26 ---Info---: ...Begin configuration...
+
+2017.06.08-14:42.26 ***Error***: No config file available
+2017.06.08-14:43.28 ---Info---: ...Begin configuration...
+
+2017.06.08-14:43.28 ***Error***: No config file available
+2017.06.08-14:44.03 ---Info---: ...Begin configuration...
+
+2017.06.08-14:44.03 ***Error***: No config file available
+2017.06.08-14:44.13 User Event: User selected menu choice 2
+2017.06.08-14:44.16 User Event: User selected menu choice 1
+2017.06.08-14:44.23 User Event: User selected menu choice 2
+2017.06.08-14:44.24 User Event: User selected menu choice 1
+2017.06.08-14:44.28 User Event: User selected menu choice 1
+2017.06.08-14:44.36 User Event: User selected menu choice 2
+2017.06.08-14:44.38 User Event: User selected menu choice 6
+2017.06.08-14:44.38 ---Info---: Exiting program...
+2017.06.08-14:44.40 ---Info---: ...Begin configuration...
+
+2017.06.08-14:44.40 ***Error***: No config file available
+2017.06.08-14:44.44 User Event: User selected menu choice 2
+2017.06.08-14:46.28 ---Info---: ...Begin configuration...
+
+2017.06.08-14:46.28 ---Info---: No config file...creating new one
+2017.06.08-14:46.28 ***Error***: No config file available
+2017.06.08-14:52.08 ---Info---: ...Begin configuration...
+
+2017.06.08-14:52.08 ---Info---: No config file...creating new one
+2017.06.08-14:54.15 ---Info---: ...Begin configuration...
+
+2017.06.08-14:54.18 User Event: User selected menu choice 2
+2017.06.08-14:54.31 User Event: User selected menu choice 5
+2017.06.08-14:54.51 User Event: User selected menu choice 6
+2017.06.08-14:54.51 ---Info---: Saving config
+2017.06.08-14:54.51 ---Info---: Exiting program...
+2017.06.08-14:55.13 ---Info---: ...Begin configuration...
+
+2017.06.08-14:55.15 User Event: User selected menu choice 2
+2017.06.08-14:55.24 User Event: User selected menu choice 5
+2017.06.08-14:55.31 User Event: User selected menu choice 2
+2017.06.08-14:57.42 ---Info---: ...Begin configuration...
+
+2017.06.08-14:57.50 User Event: User selected menu choice 5
+2017.06.08-14:58.07 ---Info---: ...Begin configuration...
+
+2017.06.08-14:58.13 User Event: User selected menu choice 5
+2017.06.08-14:59.08 User Event: User selected menu choice 2
+2017.06.08-14:59.12 User Event: User selected menu choice 5
+2017.06.08-14:59.18 User Event: User selected menu choice 2
+2017.06.08-14:59.20 User Event: User selected menu choice 6
+2017.06.08-14:59.20 ---Info---: Saving config
+2017.06.08-14:59.20 ---Info---: Exiting program...
+2017.06.08-14:59.22 ---Info---: ...Begin configuration...
+
+2017.06.08-14:59.25 User Event: User selected menu choice 2
+2017.06.08-14:59.28 User Event: User selected menu choice 5
+2017.06.08-15:00.10 ---Info---: ...Begin configuration...
+
+2017.06.08-15:00.17 User Event: User selected menu choice 1
+2017.06.08-15:44.15 User Event: User selected menu choice 2
+2017.06.08-15:44.30 User Event: User selected menu choice 1
+2017.06.08-15:44.39 User Event: User selected menu choice 2
+2017.06.08-15:47.28 ***Error***: Invalid user input
+2017.06.08-15:47.32 User Event: User selected menu choice 1
+2017.06.08-15:47.46 User Event: User selected menu choice 2
+2017.06.08-16:43.49 ---Info---: ...Begin configuration...
+
+2017.06.08-16:43.52 User Event: User selected menu choice 6
+2017.06.08-16:43.52 ---Info---: Saving config
+2017.06.08-16:43.52 ---Info---: Exiting program...
+2017.06.08-16:44.32 ---Info---: ...Begin configuration...
+
+2017.06.08-16:44.34 User Event: User selected menu choice 6
+2017.06.08-16:44.34 ---Info---: Saving config
+2017.06.08-16:44.34 ---Info---: Exiting program...
+2017.06.08-16:45.17 ---Info---: ...Begin configuration...
+
+2017.06.08-16:45.19 User Event: User selected menu choice 6
+2017.06.08-16:45.19 ---Info---: Saving config
+2017.06.08-16:45.19 ---Info---: Exiting program...
+2017.06.08-16:45.44 ---Info---: ...Begin configuration...
+
+2017.06.08-16:45.45 User Event: User selected menu choice 6
+2017.06.08-16:45.45 ---Info---: Saving config
+2017.06.08-16:45.45 ---Info---: Exiting program...
+2017.06.08-16:47.42 ---Info---: ...Begin configuration...
+
+2017.06.08-16:47.47 ---Info---: ...Begin configuration...
+
+2017.06.08-16:47.49 User Event: User selected menu choice 6
+2017.06.08-16:47.49 ---Info---: Saving config
+2017.06.08-16:47.49 ---Info---: Exiting program...
+2017.06.08-16:48.21 ---Info---: ...Begin configuration...
+
+2017.06.08-16:48.23 User Event: User selected menu choice 6
+2017.06.08-16:48.23 ---Info---: Saving config
+2017.06.08-16:48.23 ---Info---: Exiting program...
+2017.06.08-16:49.46 ---Info---: ...Begin configuration...
+
+2017.06.08-16:49.48 User Event: User selected menu choice 6
+2017.06.08-16:49.48 ---Info---: Saving config
+2017.06.08-16:49.48 ---Info---: Exiting program...
+2017.06.08-16:50.46 ---Info---: ...Begin configuration...
+
+2017.06.08-16:50.49 User Event: User selected menu choice 6
+2017.06.08-16:50.49 ---Info---: Saving config
+2017.06.08-16:50.49 ---Info---: Exiting program...
+2017.06.08-16:51.39 ---Info---: ...Begin configuration...
+
+2017.06.08-16:51.41 User Event: User selected menu choice 6
+2017.06.08-16:51.41 ---Info---: Saving config
+2017.06.08-16:51.41 ---Info---: Exiting program...
+2017.06.08-16:52.27 ---Info---: ...Begin configuration...
+
+2017.06.08-16:52.29 User Event: User selected menu choice 6
+2017.06.08-16:52.29 ---Info---: Saving config
+2017.06.08-16:52.29 ---Info---: Exiting program...
+2017.06.08-16:53.33 ---Info---: ...Begin configuration...
+
+2017.06.08-16:53.35 User Event: User selected menu choice 6
+2017.06.08-16:53.35 ---Info---: Saving config
+2017.06.08-16:53.35 ---Info---: Exiting program...
+2017.06.08-16:54.04 ---Info---: ...Begin configuration...
+
+2017.06.08-16:54.05 User Event: User selected menu choice 6
+2017.06.08-16:54.05 ---Info---: Saving config
+2017.06.08-16:54.05 ---Info---: Exiting program...
+2017.06.08-16:55.06 ---Info---: ...Begin configuration...
+
+2017.06.08-16:55.09 User Event: User selected menu choice 6
+2017.06.08-16:55.09 ---Info---: Saving config
+2017.06.08-16:55.09 ---Info---: Exiting program...
+2017.06.08-16:59.18 ---Info---: ...Begin configuration...
+
+2017.06.08-16:59.21 User Event: User selected menu choice 6
+2017.06.08-16:59.21 ---Info---: Saving config
+2017.06.08-16:59.21 ---Info---: Exiting program...
+2017.06.09-09:40.22 ---Info---: ...Begin configuration...
+
+2017.06.09-09:40.24 User Event: User selected menu choice 6
+2017.06.09-09:40.24 ---Info---: Saving config
+2017.06.09-09:40.24 ---Info---: Exiting program...
+2017.06.09-09:42.38 ---Info---: ...Begin configuration...
+
+2017.06.09-09:42.42 User Event: User selected menu choice 6
+2017.06.09-09:42.42 ---Info---: Saving config
+2017.06.09-09:42.42 ---Info---: Exiting program...
+2017.06.09-09:51.35 ---Info---: ...Begin configuration...
+
+2017.06.09-09:51.41 User Event: User selected menu choice 6
+2017.06.09-09:51.41 ---Info---: Saving config
+2017.06.09-09:51.41 ---Info---: Exiting program...
+2017.06.09-10:37.01 ---Info---: ...Begin configuration...
+
+2017.06.09-10:37.09 User Event: User selected menu choice 1
+2017.06.09-10:38.02 ***Error***: Unable to locate TV at https://www.costco.com/LG-65%22-Class-(64.5%22-Diag.)-4K-Ultra-HD-OLED-TV.product.100343124.html
+2017.06.09-10:38.20 User Event: User selected menu choice 1
+2017.06.09-10:38.43 ---Info---: ...Begin configuration...
+
+2017.06.09-10:38.45 User Event: User selected menu choice 1
+2017.06.09-10:38.59 ---Info---: ...Begin configuration...
+
+2017.06.09-10:39.00 User Event: User selected menu choice 2
+2017.06.09-10:39.04 User Event: User selected menu choice 1
+2017.06.09-10:51.19 ---Info---: ...Begin configuration...
+
+2017.06.09-10:51.22 User Event: User selected menu choice 2
+2017.06.09-10:51.23 User Event: User selected menu choice 1
+2017.06.09-10:54.05 ---Info---: ...Begin configuration...
+
+2017.06.09-10:54.07 User Event: User selected menu choice 1
+2017.06.09-10:54.52 ---Info---: ...Begin configuration...
+
+2017.06.09-10:54.54 User Event: User selected menu choice 1
+2017.06.09-11:03.01 ---Info---: ...Begin configuration...
+
+2017.06.09-11:03.07 User Event: User selected menu choice 1
+2017.06.09-11:05.07 User Event: User selected menu choice 2
+2017.06.09-11:08.25 User Event: User selected menu choice 1
+2017.06.09-11:09.09 User Event: User selected menu choice 2
+2017.06.09-11:15.11 ---Info---: ...Begin configuration...
+
+2017.06.09-11:15.13 User Event: User selected menu choice 2
+2017.06.09-11:15.15 User Event: User selected menu choice 1
+2017.06.09-11:16.41 ---Info---: ...Begin configuration...
+
+2017.06.09-11:16.42 User Event: User selected menu choice 1
+2017.06.09-11:17.02 ---Info---: Getting updated prices
+2017.06.09-11:17.04 User Event: User selected menu choice 2
+2017.06.09-11:18.46 ---Info---: ...Begin configuration...
+
+2017.06.09-11:18.48 User Event: User selected menu choice 2
+2017.06.09-11:18.49 User Event: User selected menu choice 1
+2017.06.09-11:19.06 ---Info---: Getting updated prices
+2017.06.09-11:19.15 User Event: User selected menu choice 2
+2017.06.09-11:19.51 User Event: User selected menu choice 6
+2017.06.09-11:19.51 ---Info---: Saving config
+2017.06.09-11:19.51 ---Info---: Exiting program...
+2017.06.09-11:19.59 ---Info---: ...Begin configuration...
+
+2017.06.09-11:20.02 User Event: User selected menu choice 2
+2017.06.09-11:20.08 User Event: User selected menu choice 6
+2017.06.09-11:20.08 ---Info---: Saving config
+2017.06.09-11:20.08 ---Info---: Exiting program...
+2017.06.09-12:23.24 ---Info---: ...Begin configuration...
+
+2017.06.09-12:23.30 User Event: User selected menu choice 6
+2017.06.09-12:23.30 ---Info---: Saving config
+2017.06.09-12:23.30 ---Info---: Exiting program...
+2017.06.09-12:32.33 ---Info---: ...Begin configuration...
+
+2017.06.09-12:32.35 User Event: User selected menu choice 2
+2017.06.09-12:32.39 User Event: User selected menu choice 4
+2017.06.09-12:32.39 ---Info---: Getting updated prices
+2017.06.09-12:32.42 User Event: User selected menu choice 2
+2017.06.09-12:34.03 ---Info---: ...Begin configuration...
+
+2017.06.09-12:34.07 User Event: User selected menu choice 2
+2017.06.09-12:34.10 User Event: User selected menu choice 4
+2017.06.09-12:34.10 ---Info---: Getting updated prices
+2017.06.09-12:34.41 ---Info---: ...Begin configuration...
+
+2017.06.09-12:34.44 User Event: User selected menu choice 2
+2017.06.09-12:34.48 User Event: User selected menu choice 4
+2017.06.09-12:34.48 ---Info---: Getting updated prices
+2017.06.09-12:34.58 User Event: User selected menu choice 1
+2017.06.09-12:35.42 ---Info---: Getting updated prices
+2017.06.09-12:35.45 ***Error***: Price parsing error
+2017.06.09-12:42.36 ---Info---: ...Begin configuration...
+
+2017.06.09-12:42.38 User Event: User selected menu choice 2
+2017.06.09-12:42.40 User Event: User selected menu choice 1
+2017.06.09-12:42.56 ---Info---: Getting updated prices
+2017.06.09-12:42.59 ***Error***: Price parsing error
+2017.06.09-12:43.26 User Event: User selected menu choice 6
+2017.06.09-12:43.26 ---Info---: Saving config
+2017.06.09-12:43.26 ---Info---: Exiting program...
+2017.06.09-12:43.30 ---Info---: ...Begin configuration...
+
+2017.06.09-12:43.32 User Event: User selected menu choice 2
+2017.06.09-12:43.34 User Event: User selected menu choice 4
+2017.06.09-12:43.34 ---Info---: Getting updated prices
+2017.06.09-12:43.56 User Event: User selected menu choice 6
+2017.06.09-12:43.56 ---Info---: Saving config
+2017.06.09-12:43.56 ---Info---: Exiting program...
+2017.06.09-12:49.54 ---Info---: ...Begin configuration...
+
+2017.06.09-12:50.06 User Event: User selected menu choice 2
+2017.06.09-12:50.08 User Event: User selected menu choice 4
+2017.06.09-12:50.08 ---Info---: Getting updated prices
+2017.06.09-12:50.20 User Event: User selected menu choice 6
+2017.06.09-12:50.20 ---Info---: Saving config
+2017.06.09-12:50.20 ---Info---: Exiting program...
+2017.06.09-12:50.40 ---Info---: ...Begin configuration...
+
+2017.06.09-12:50.42 User Event: User selected menu choice 4
+2017.06.09-12:50.42 ---Info---: Getting updated prices
+2017.06.09-12:51.18 ---Info---: ...Begin configuration...
+
+2017.06.09-12:51.19 User Event: User selected menu choice 4
+2017.06.09-12:51.19 ---Info---: Getting updated prices
+2017.06.09-12:52.10 ---Info---: ...Begin configuration...
+
+2017.06.09-12:52.12 User Event: User selected menu choice 4
+2017.06.09-12:52.12 ---Info---: Getting updated prices
+2017.06.09-12:53.08 User Event: User selected menu choice 6
+2017.06.09-12:53.08 ---Info---: Saving config
+2017.06.09-12:53.08 ---Info---: Exiting program...
+2017.06.09-12:53.12 ---Info---: ...Begin configuration...
+
+2017.06.09-12:53.13 User Event: User selected menu choice 4
+2017.06.09-12:53.13 ---Info---: Getting updated prices
+2017.06.09-12:54.35 User Event: User selected menu choice 1
+2017.06.09-12:55.08 ---Info---: Getting updated prices
+2017.06.09-12:55.45 User Event: User selected menu choice 6
+2017.06.09-12:55.45 ---Info---: Saving config
+2017.06.09-12:55.45 ---Info---: Exiting program...
+2017.06.09-12:55.56 ---Info---: ...Begin configuration...
+
+2017.06.09-13:00.26 User Event: User selected menu choice 2
+2017.06.09-13:00.55 User Event: User selected menu choice 1
+2017.06.09-13:01.18 ***Error***: Unable to locate Mac -BestBuy at http://www.bestbuy.com/site/apple-macbook-pro-13-display-intel-core-i5-8-gb-memory-256gb-flash-storage-space-gray/5465700.p?skuId=5465700&extStoreId=&ref=212&loc=1&ksid=ca168731-5d5c-4f49-b54d-1a23df16ec11&ksprof_id=8&ksaffcode=pg177630&ksdevice=c&lsft=ref:212,loc:2 
+2017.06.09-13:02.14 User Event: User selected menu choice 1
+2017.06.09-13:02.41 ***Error***: Unable to locate Apple-mac at https://www.apple.com/shop/product/G0QM3LL/A/refurbished-133-inch-macbook-pro-27ghz-dual-core-intel-i5-with-retina-display?afid=p238%7Cskd4Nu6rc-dc_mtid_1870765e38482_pcrid_52243312090_&cid=aos-us-kwgo-pla-mac--slid--product-G0QM3LL/A 
+2017.06.09-13:11.04 User Event: User selected menu choice 1
+2017.06.09-13:11.09 ---Info---: ...Begin configuration...
+
+2017.06.09-13:11.11 User Event: User selected menu choice 1
+2017.06.09-13:11.23 ***Error***: Unable to locate practice ball at http://www.target.com/p/izzo-174-golf-practice-perforated-golf-balls-24pk-white/-/A-14255956 
+2017.06.09-13:12.07 User Event: User selected menu choice 1
+2017.06.09-13:12.18 ---Info---: Getting updated prices
+2017.06.09-13:13.01 User Event: User selected menu choice 6
+2017.06.09-13:13.01 ---Info---: Saving config
+2017.06.09-13:13.01 ---Info---: Exiting program...
+2017.06.09-13:13.06 ---Info---: ...Begin configuration...
+
+2017.06.09-13:13.13 User Event: User selected menu choice 2
+2017.06.09-13:13.19 User Event: User selected menu choice 4
+2017.06.09-13:13.19 ---Info---: Getting updated prices
+2017.06.09-13:14.40 User Event: User selected menu choice 1
+2017.06.09-13:15.10 ---Info---: Getting updated prices
+2017.06.09-13:41.00 ---Info---: ...Begin configuration...
+
+2017.06.09-13:41.01 User Event: User selected menu choice 2
+2017.06.09-13:41.03 User Event: User selected menu choice 1
+2017.06.09-13:41.20 ***Error***: Unable to locate Costco -TV at https://www.costco.com/Samsung-65%22-Class-(64.5%22-Diag.)-Curved-4K-Ultra-HD-QLED-LCD-TV-.product.100343346.html
+2017.06.09-13:41.47 User Event: User selected menu choice 4
+2017.06.09-13:41.47 ---Info---: Getting updated prices
+2017.06.09-13:42.43 ---Info---: ...Begin configuration...
+
+2017.06.09-13:42.45 User Event: User selected menu choice 4
+2017.06.09-13:42.45 ---Info---: Getting updated prices
+2017.06.09-13:44.00 ---Info---: ...Begin configuration...
+
+2017.06.09-13:44.02 User Event: User selected menu choice 4
+2017.06.09-13:44.02 ---Info---: Getting updated prices
+2017.06.09-13:46.02 ---Info---: ...Begin configuration...
+
+2017.06.09-13:46.03 User Event: User selected menu choice 4
+2017.06.09-13:46.03 ---Info---: Getting updated prices
+2017.06.09-13:46.40 ---Info---: ...Begin configuration...
+
+2017.06.09-13:46.41 User Event: User selected menu choice 4
+2017.06.09-13:46.41 ---Info---: Getting updated prices
+2017.06.09-13:46.57 ---Info---: ...Begin configuration...
+
+2017.06.09-13:47.02 User Event: User selected menu choice 4
+2017.06.09-13:47.02 ---Info---: Getting updated prices
+2017.06.09-13:47.54 ---Info---: ...Begin configuration...
+
+2017.06.09-13:47.55 User Event: User selected menu choice 4
+2017.06.09-13:47.55 ---Info---: Getting updated prices
+2017.06.09-13:48.03 ---Info---: ...Begin configuration...
+
+2017.06.09-13:48.04 ---Info---: ...Begin configuration...
+
+2017.06.09-13:48.13 ---Info---: ...Begin configuration...
+
+2017.06.09-13:48.14 User Event: User selected menu choice 4
+2017.06.09-13:48.14 ---Info---: Getting updated prices
+2017.06.09-13:48.27 ---Info---: ...Begin configuration...
+
+2017.06.09-13:48.32 User Event: User selected menu choice 4
+2017.06.09-13:48.32 ---Info---: Getting updated prices
+2017.06.09-13:48.48 ---Info---: ...Begin configuration...
+
+2017.06.09-13:48.49 User Event: User selected menu choice 2
+2017.06.09-13:48.56 User Event: User selected menu choice 4
+2017.06.09-13:48.56 ---Info---: Getting updated prices
+2017.06.09-13:49.20 ---Info---: ...Begin configuration...
+
+2017.06.09-13:49.21 User Event: User selected menu choice 4
+2017.06.09-13:49.21 ---Info---: Getting updated prices
+2017.06.09-13:49.34 ---Info---: ...Begin configuration...
+
+2017.06.09-13:49.35 User Event: User selected menu choice 4
+2017.06.09-13:49.35 ---Info---: Getting updated prices
+2017.06.09-13:50.22 ---Info---: ...Begin configuration...
+
+2017.06.09-13:50.25 User Event: User selected menu choice 5
+2017.06.09-13:50.31 User Event: User selected menu choice 1
+2017.06.09-13:50.56 ---Info---: Getting updated prices
+2017.06.09-13:51.03 User Event: User selected menu choice 4
+2017.06.09-13:51.03 ---Info---: Getting updated prices
+2017.06.09-13:51.20 User Event: User selected menu choice 6
+2017.06.09-13:51.20 ---Info---: Saving config
+2017.06.09-13:51.20 ---Info---: Exiting program...
+2017.06.09-13:51.36 ---Info---: ...Begin configuration...
+
+2017.06.09-13:51.38 User Event: User selected menu choice 4
+2017.06.09-13:51.38 ---Info---: Getting updated prices
+2017.06.09-13:51.54 User Event: User selected menu choice 1
+2017.06.09-13:52.16 ---Info---: Getting updated prices
+2017.06.09-13:52.34 User Event: User selected menu choice 6
+2017.06.09-13:52.34 ---Info---: Saving config
+2017.06.09-13:52.34 ---Info---: Exiting program...
+2017.06.09-13:52.38 ---Info---: ...Begin configuration...
+
+2017.06.09-13:52.40 User Event: User selected menu choice 2
+2017.06.09-13:52.57 User Event: User selected menu choice 1
+2017.06.09-13:53.25 ---Info---: Getting updated prices
+2017.06.09-13:53.34 User Event: User selected menu choice 4
+2017.06.09-13:53.34 ---Info---: Getting updated prices
+2017.06.09-13:53.40 User Event: User selected menu choice 1
+2017.06.09-13:54.06 ***Error***: Unable to locate Costco TV at https://www.costco.com/Samsung-65%22-Class-(64.5%22-Diag.)-Curved-4K-Ultra-HD-QLED-LCD-TV-.product.100343346.html 
+2017.06.09-13:54.32 User Event: User selected menu choice 2
+2017.06.09-13:54.34 User Event: User selected menu choice 4
+2017.06.09-13:54.34 ---Info---: Getting updated prices
+2017.06.09-14:28.49 User Event: User selected menu choice 6
+2017.06.09-14:28.49 ---Info---: Saving config
+2017.06.09-14:28.49 ---Info---: Exiting program...
+2017.06.09-14:28.52 ---Info---: ...Begin configuration...
+
+2017.06.09-14:28.55 User Event: User selected menu choice 1
+2017.06.09-14:29.25 ***Error***: Unable to locate Costco TV at https://www.costco.com/Samsung-65%22-Class-(64.5%22-Diag.)-Curved-4K-Ultra-HD-QLED-LCD-TV-.product.100343346.html
+2017.06.09-14:31.11 User Event: User selected menu choice 6
+2017.06.09-14:31.11 ---Info---: Saving config
+2017.06.09-14:31.11 ---Info---: Exiting program...
+2017.06.09-14:31.14 ---Info---: ...Begin configuration...
+
+2017.06.09-14:31.17 User Event: User selected menu choice 1
+2017.06.09-14:31.32 ***Error***: Unable to locate Costco at https://www.costco.com/Samsung-65%22-Class-(64.5%22-Diag.)-Curved-4K-Ultra-HD-QLED-LCD-TV-.product.100343346.html
+2017.06.09-14:31.35 User Event: User selected menu choice 4
+2017.06.09-14:31.35 ---Info---: Getting updated prices
+2017.06.09-14:32.02 User Event: User selected menu choice 1
+2017.06.09-14:32.14 ---Info---: Getting updated prices
+2017.06.09-14:32.26 User Event: User selected menu choice 6
+2017.06.09-14:32.26 ---Info---: Saving config
+2017.06.09-14:32.26 ---Info---: Exiting program...
+2017.06.09-14:34.03 ---Info---: ...Begin configuration...
+
+2017.06.09-14:34.05 User Event: User selected menu choice 4
+2017.06.09-14:34.05 ---Info---: Getting updated prices
+2017.06.09-14:34.14 User Event: User selected menu choice 1
+2017.06.09-14:34.33 ***Error***: Unable to locate Costco TV at https://www.costco.com/Samsung-65%22-Class-(64.5%22-Diag.)-Curved-4K-Ultra-HD-QLED-LCD-TV-.product.100343346.html
+2017.06.09-14:35.22 ---Info---: ...Begin configuration...
+
+2017.06.09-14:35.25 User Event: User selected menu choice 1
+2017.06.09-14:35.39 ***Error***: Unable to locate Costco at https://www.costco.com/Samsung-65%22-Class-(64.5%22-Diag.)-Curved-4K-Ultra-HD-QLED-LCD-TV-.product.100343346.html
+2017.06.09-14:36.14 User Event: User selected menu choice 1
+2017.06.09-14:36.47 ***Error***: Unable to locate Costco at https://www.costco.com/Vizio-75%22-Class-(74.5%22-Diag.)-4K-Ultra-HD-Smart-Home-Theater-Display.product.100343365.html
+2017.06.09-14:38.15 ---Info---: ...Begin configuration...
+
+2017.06.09-14:38.16 User Event: User selected menu choice 1
+2017.06.09-14:38.21 ***Error***: Unable to locate Costco at https://www.costco.com/Vizio-75%22-Class-(74.5%22-Diag.)-4K-Ultra-HD-Smart-Home-Theater-Display.product.100343365.html
+2017.06.09-14:38.33 User Event: User selected menu choice 6
+2017.06.09-14:38.33 ---Info---: Saving config
+2017.06.09-14:38.33 ---Info---: Exiting program...
+2017.06.09-14:38.36 ---Info---: ...Begin configuration...
+
+2017.06.09-14:38.37 User Event: User selected menu choice 1
+2017.06.09-14:38.43 ***Error***: Unable to locate Costco at https://www.costco.com/Vizio-75%22-Class-(74.5%22-Diag.)-4K-Ultra-HD-Smart-Home-Theater-Display.product.100343365.html
+2017.06.09-14:38.47 User Event: User selected menu choice 4
+2017.06.09-14:38.47 ---Info---: Getting updated prices
+2017.06.09-14:39.36 ---Info---: ...Begin configuration...
+
+2017.06.09-14:39.38 User Event: User selected menu choice 1
+2017.06.09-14:41.03 ---Info---: ...Begin configuration...
+
+2017.06.09-14:41.04 User Event: User selected menu choice 1
+2017.06.09-14:41.17 ***Error***: Unable to locate Costco at https://www.costco.com/Vizio-75%22-Class-(74.5%22-Diag.)-4K-Ultra-HD-Smart-Home-Theater-Display.product.100343365.html
+2017.06.09-14:42.05 ---Info---: ...Begin configuration...
+
+2017.06.09-14:42.06 User Event: User selected menu choice 1
+2017.06.09-14:42.18 ***Error***: Unable to locate Walmart Bug Stuff at https://www.walmart.com/ip/Raid-Ant-Gel-Precision-Placement-Bait-1.06-oz/21783599?findingMethod=wpa&tgtp=0&cmp=11337&relRank=2&pt=cp&adgrp=11787&bt=1&plmt=1145x345_B-C-OG_TI_5-20_HL-MID&wpa_qs=4EF6O0IKzaSYGPZYD16tmamzCVYJs8XNOKPQTGgSQbwA3jec7-VXbm9GgoZ7rwbv&bkt=__bkt__&pgid=4091&itemId=21783599&relUUID=bf6e2e49-ec3c-4669-9f3a-6ba2b0ab3b76&adUid=469bf3bd-89db-4a5c-b68d-010f33c8d310&adiuuid=f4d896ee-c615-4a65-a7bd-0c29863adb8a&adpgm=wpa&pltfm=desktop 
+2017.06.09-14:42.44 ---Info---: ...Begin configuration...
+
+2017.06.09-14:42.47 User Event: User selected menu choice 1
+2017.06.09-14:42.57 ***Error***: Unable to locate Walmart Bug at https://www.walmart.com/ip/Raid-Ant-Gel-Precision-Placement-Bait-1.06-oz/21783599?findingMethod=wpa&tgtp=0&cmp=11337&relRank=2&pt=cp&adgrp=11787&bt=1&plmt=1145x345_B-C-OG_TI_5-20_HL-MID&wpa_qs=4EF6O0IKzaSYGPZYD16tmamzCVYJs8XNOKPQTGgSQbwA3jec7-VXbm9GgoZ7rwbv&bkt=__bkt__&pgid=4091&itemId=21783599&relUUID=bf6e2e49-ec3c-4669-9f3a-6ba2b0ab3b76&adUid=469bf3bd-89db-4a5c-b68d-010f33c8d310&adiuuid=f4d896ee-c615-4a65-a7bd-0c29863adb8a&adpgm=wpa&pltfm=desktop 
+2017.06.09-14:43.09 ---Info---: ...Begin configuration...
+
+2017.06.09-14:43.10 User Event: User selected menu choice 1
+2017.06.09-14:43.23 ---Info---: Getting updated prices
+2017.06.09-14:43.53 ---Info---: ...Begin configuration...
+
+2017.06.09-14:43.55 User Event: User selected menu choice 1
+2017.06.09-14:44.22 ***Error***: Unable to locate Costco at https://www.costco.com/Vizio-75%22-Class-(74.5%22-Diag.)-4K-Ultra-HD-Smart-Home-Theater-Display.product.100343365.html
+2017.06.09-14:45.18 ---Info---: ...Begin configuration...
+
+2017.06.09-14:45.20 User Event: User selected menu choice 1
+2017.06.09-14:45.23 ***Error***: Unable to locate Costco at https://www.costco.com/Vizio-75%22-Class-(74.5%22-Diag.)-4K-Ultra-HD-Smart-Home-Theater-Display.product.100343365.html
+2017.06.09-14:45.31 ---Info---: ...Begin configuration...
+
+2017.06.09-14:45.33 User Event: User selected menu choice 1
+2017.06.09-14:45.43 ***Error***: Unable to locate C at https://www.costco.com/Vizio-75%22-Class-(74.5%22-Diag.)-4K-Ultra-HD-Smart-Home-Theater-Display.product.100343365.html
+2017.06.09-14:46.18 User Event: User selected menu choice 1
+2017.06.09-14:46.31 ***Error***: Unable to locate Costco couch at https://www.costco.com/Holden-Fabric-Convertible-Sofa-Bed---Gray.product.100364187.html 
+2017.06.09-14:47.06 User Event: User selected menu choice 6
+2017.06.09-14:47.06 ---Info---: Saving config
+2017.06.09-14:47.06 ---Info---: Exiting program...
+2017.06.09-14:47.09 ---Info---: ...Begin configuration...
+
+2017.06.09-14:47.10 User Event: User selected menu choice 1
+2017.06.09-14:47.28 ---Info---: Getting updated prices
+2017.06.09-14:48.25 User Event: User selected menu choice 1
+2017.06.09-14:48.35 ***Error***: Unrecognized element type: h3
+2017.06.09-14:48.35 ---Info---: Getting updated prices
+2017.06.09-14:48.52 User Event: User selected menu choice 6
+2017.06.09-14:48.52 ---Info---: Saving config
+2017.06.09-14:48.52 ---Info---: Exiting program...

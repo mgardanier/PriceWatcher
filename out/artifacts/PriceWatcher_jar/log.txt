@@ -1,0 +1,14 @@
+2017.06.09-15:13.30 ---Info---: New log file created
+2017.06.09-15:13.40 User Event: User selected menu choice 5
+2017.06.09-15:15.21 User Event: User selected menu choice 1
+2017.06.09-15:15.46 ---Info---: Getting updated prices
+2017.06.09-15:15.59 User Event: User selected menu choice 4
+2017.06.09-15:15.59 ---Info---: Getting updated prices
+2017.06.09-15:16.21 User Event: User selected menu choice 6
+2017.06.09-15:16.21 ---Info---: Saving config
+2017.06.09-15:16.21 ---Info---: Exiting program...
+2017.06.09-15:16.24 ---Info---: ...Begin configuration...
+
+2017.06.09-15:16.26 User Event: User selected menu choice 2
+2017.06.09-15:19.08 User Event: User selected menu choice 1
+2017.06.09-15:19.32 ---Info---: Getting updated prices

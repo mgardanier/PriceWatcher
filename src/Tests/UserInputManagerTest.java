@@ -35,7 +35,7 @@ class UserInputManagerTest {
         assertEquals(-1, manager.validateMenuInput(testInput));
         testInput = "0";
         assertEquals(-1, manager.validateMenuInput(testInput));
-        testInput = "5";
+        testInput = "7";
         assertEquals(-1, manager.validateMenuInput(testInput));
 
     }

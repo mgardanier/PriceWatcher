@@ -1,5 +1,7 @@
-package Model;
+package Tests;
 
+import Model.ItemList;
+import Model.WatchedItem;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

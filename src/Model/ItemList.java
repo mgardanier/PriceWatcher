@@ -2,6 +2,7 @@ package Model;
 
 import FileIO.StatusLogger;
 
+import java.util.List;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
@@ -27,6 +28,11 @@ public class ItemList {
         this.itemList.add(item);
     }
 
+    /**
+     * Method to pop off the next item. Note: Does NOT replace it.
+     * If iterating through, add the item back in afterwards.
+     * @return the next watched item on the queue.
+     */
     public WatchedItem getNextWatchedItem(){
         try {
             return this.itemList.take();
@@ -41,7 +47,7 @@ public class ItemList {
         BlockingQueue<WatchedItem> temp = new LinkedBlockingQueue<>();
         while(!this.itemList.isEmpty()){
             WatchedItem t = getNextWatchedItem();
-            if(t.getItemName().equals(itemName))
+            if(t.getItemName().toLowerCase().equals(itemName.toLowerCase()))
                 found = true;
             else
                 temp.add(t);
@@ -70,8 +76,17 @@ public class ItemList {
             WatchedItem item = getNextWatchedItem();
             builder.append(item.toString());
             temp.add(item);
+            counter++;
         }
         itemList = temp;
         return builder.toString();
+    }
+
+    public void setInstance(ItemList list){
+        this.instance = list;
+    }
+
+    public void setItemList(BlockingQueue<WatchedItem> list){
+        this.itemList = list;
     }
 }
